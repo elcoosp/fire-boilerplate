@@ -11,6 +11,7 @@
   "author": "elcoosp <elcoosp@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "change-case": "^3.0.2",
     "commander": "^2.15.1",
     "inquirer": "^5.2.0",
     "shelljs": "^0.8.1"
